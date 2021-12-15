@@ -1,11 +1,16 @@
 _repo: Why-We-Love-Music_66855
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66855-h/images/cover.jpg
 creator:
   author:
     agent_name: Seashore, Carl E.
     gutenberg_agent_id: '53990'
     url: http://www.gutenberg.org/2009/agents/53990
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66855#Why-We-Love-Music
 gutenberg_issued: '2021-11-30'
 identifiers:
   gutenberg: '66855'
